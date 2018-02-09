@@ -19,6 +19,13 @@ The area of the hexagon is: 93.53074360871938
 Input Data:
 Input a string: The quick brown fox 
 Expected Output
-
 Reverse string: xof nworb kciuq ehT
 
+## 4. Dabase Access using JDBC to connect to sqlserver
+Execute one simple select and print in console the result.
+wai_user
+first_name
+last_name
+email
+Input Data: nothing
+Expected Output
